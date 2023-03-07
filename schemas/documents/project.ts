@@ -73,8 +73,8 @@ export default defineType({
       type: 'duration',
     }),
     defineField({
-      name: 'client',
-      title: 'Client',
+      name: 'company',
+      title: 'Company',
       type: 'string',
     }),
     defineField({
